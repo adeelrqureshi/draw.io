@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T15:43:28.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="hsUn3j3_angCFgYbYKFB" version="12.9.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-04-08T15:46:28.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="64W9VyapNxtroz3bu8eI" version="12.9.10" type="github" pages="3">
   <diagram id="V3gWvR7eqarUsWHzFTpb" name="Page-1">
     <mxGraphModel dx="1657" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -907,6 +907,9 @@
         </mxCell>
         <mxCell id="3fyvg4-7XQojIOPsdGVZ-95" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Data store&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="EmFTUcTJqZKPcbe3cMl4-1">
           <mxGeometry x="-188" y="332.9" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="S8hAwwPtamftBOU4dLEN-3" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Payment Gateway&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EmFTUcTJqZKPcbe3cMl4-1">
+          <mxGeometry x="-703.04" y="420" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
