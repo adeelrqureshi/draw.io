@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-02T11:44:59.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="BV17apXTBGvwqqgBEPb1" version="13.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-05-02T11:49:24.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="8LRLOyRMbd2nx_PN_Oyt" version="13.0.2" type="github" pages="6">
   <diagram id="V3gWvR7eqarUsWHzFTpb" name="Page-1">
     <mxGraphModel dx="2033" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -2326,10 +2326,10 @@
       <root>
         <mxCell id="nigIL696OHkIep0QZLtE-0" />
         <mxCell id="nigIL696OHkIep0QZLtE-1" parent="nigIL696OHkIep0QZLtE-0" />
-        <mxCell id="nigIL696OHkIep0QZLtE-2" value="WSO2 (API Manager / Enterprise Integrator)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nigIL696OHkIep0QZLtE-1">
+        <mxCell id="nigIL696OHkIep0QZLtE-2" value="WSO2 (API Manager / Enterprise Integrator) Topic Producer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nigIL696OHkIep0QZLtE-1">
           <mxGeometry x="250" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nigIL696OHkIep0QZLtE-3" value="Microservice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nigIL696OHkIep0QZLtE-1">
+        <mxCell id="nigIL696OHkIep0QZLtE-3" value="Microservice ( Topic Consumer Group)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nigIL696OHkIep0QZLtE-1">
           <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nigIL696OHkIep0QZLtE-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="nigIL696OHkIep0QZLtE-1">
